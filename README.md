@@ -20,9 +20,8 @@ University of Seoul in Republic of korea
 * 2020.07\~	join Big Data Club BOAZ  
 * 2020-1  	Scholarship for Excellent Achievement, University of Seoul, Korea  
 * 2020-1  	Scholarship for Tutoring, University of Seoul, Korea  
-* 2020 04\~07
-  * [Kakao : Playlist Continuation Competition](https://arena.kakao.com/c/7)
-  * [project github](https://github.com/Arena-UOS/dddd)
+* 2020 04\~07 [Kakao : Playlist Continuation Competition](https://arena.kakao.com/c/7)
+  * [project github](https://github.com/Arena-UOS/MelonPlaylistContinuation)
   * [project notion](https://www.notion.so/Team-dddd-ab0ca582b705420b983ad3a06c6d7e11)
   * Public Leaderboard 10/785
   * Final Leaderboard 11/785
