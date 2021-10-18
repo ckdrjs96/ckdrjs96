@@ -7,6 +7,10 @@ University of Seoul in Republic of korea
 
 ### AWARDS AND HONORS
 ***
+* 2021.8.17 ~ NAVER intern 
+* 2021.5.17 ~ 2021.7.1 [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/)
+  * Round1 : 쇼핑 AI 개발-쇼핑 카테고리 분류 (rank 9)
+  * Round2 : AiRS-쇼핑 네이버 모바일 메인 마이구독의 UGC 컨텐츠 추천을 위한 문서 키워드 추출 (rank 1)
 * 2021.03.20,27 [SCOFE 2021:Startup Coding Festival](https://www.wanted.co.kr/events/scofe2021)
   * Round1 (rank in 1000/7100)
   * Round2 (?/1000)
