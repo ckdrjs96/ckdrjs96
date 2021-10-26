@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdrjs96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Department of Physics and Bigdata Analysis  
-University of Seoul in Republic of korea
+
 
 ### AWARDS AND HONORS
 ***
@@ -11,6 +11,10 @@ University of Seoul in Republic of korea
 * 2021.5.17 ~ 2021.7.1 [CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/)
   * Round1 : 쇼핑 AI 개발-쇼핑 카테고리 분류 (rank 9)
   * Round2 : AiRS-쇼핑 네이버 모바일 메인 마이구독의 UGC 컨텐츠 추천을 위한 문서 키워드 추출 (rank 1)
+* 2021.4.1 ~ 2021.8.1 14th BOAZ bigdata conference  
+  * [project github](https://github.com/BOAZ-adv-teamname)
+  * Youtube(https://www.youtube.com/watch?v=uPyoKAFDQRA&t=182s&ab_channel=bigdataBOAZ)
+  * PPT(https://drive.google.com/file/d/1TYUxkMEJEnbmVHDZqJuJNux9yCZDusYJ/view?usp=sharing)
 * 2021.03.20,27 [SCOFE 2021:Startup Coding Festival](https://www.wanted.co.kr/events/scofe2021)
   * Round1 (rank in 1000/7100)
   * Round2 (?/1000)
@@ -20,7 +24,7 @@ University of Seoul in Republic of korea
 * 2020.08\~09 [Bigcon: KBO regular season team wins, batting average and ERA predict](https://www.bigcontest.or.kr/index.php)
   * [project github](https://github.com/kkminyoung/2020bigcontest)
   * 한국정보화진흥원장상 2/450(3,000,000 KRW)  
-* 2020.08.01 BOAZ bigdata conference  
+* 2020.08.01 
 * 2020.07\~	join Big Data Club BOAZ  
 * 2020-1  	Scholarship for Excellent Achievement, University of Seoul, Korea  
 * 2020-1  	Scholarship for Tutoring, University of Seoul, Korea  
