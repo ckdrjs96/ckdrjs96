@@ -13,8 +13,8 @@ Department of Physics and Bigdata Analysis
   * Round2 : AiRS-쇼핑 네이버 모바일 메인 마이구독의 UGC 컨텐츠 추천을 위한 문서 키워드 추출 (rank 1)
 * 2021.4.1 ~ 2021.8.1 14th BOAZ bigdata conference  
   * [project github](https://github.com/BOAZ-adv-teamname)
-  * Youtube(https://www.youtube.com/watch?v=uPyoKAFDQRA&t=182s&ab_channel=bigdataBOAZ)
-  * PPT(https://drive.google.com/file/d/1TYUxkMEJEnbmVHDZqJuJNux9yCZDusYJ/view?usp=sharing)
+  * [Youtube](https://www.youtube.com/watch?v=uPyoKAFDQRA&t=182s&ab_channel=bigdataBOAZ)
+  * [PPT](https://drive.google.com/file/d/1TYUxkMEJEnbmVHDZqJuJNux9yCZDusYJ/view?usp=sharing)
 * 2021.03.20,27 [SCOFE 2021:Startup Coding Festival](https://www.wanted.co.kr/events/scofe2021)
   * Round1 (rank in 1000/7100)
   * Round2 (?/1000)
